@@ -3,7 +3,7 @@
 #include <vector>
 using namespace std;
 // -----------------------------
-// Classes
+// Class
 // -----------------------------
 class TimeSlot {
 private:
