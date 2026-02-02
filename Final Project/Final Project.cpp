@@ -4,6 +4,7 @@
 using namespace std;
 // -----------------------------
 // Classes
+// MCT
 // -----------------------------
 class TimeSlot {
 private:
