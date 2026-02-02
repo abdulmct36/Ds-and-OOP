@@ -110,7 +110,7 @@ public:
 };
 
 // -----------------------------
-// Timetable System
+// Timetable System Class
 // -----------------------------
 class TimetableSystem {
 private:
@@ -458,7 +458,7 @@ public:
         cout << "3. Back\n";
         cout << "Enter choice: ";
         while (!(cin >> ch) || ch < 1 || ch >3) {
-            cout << "Error: Please enter a valid integer choice (1-3): ";
+            cout << "Error: Please enter a valid integer choice (1-3): "; // error handling
             cin.clear(); cin.ignore(10000, '\n');
         }
         cin.ignore();
