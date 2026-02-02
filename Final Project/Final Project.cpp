@@ -2,8 +2,6 @@
 #include <string>
 #include <vector>
 using namespace std;
-// mechatronics
-// hello g
 // -----------------------------
 // Classes
 // -----------------------------
