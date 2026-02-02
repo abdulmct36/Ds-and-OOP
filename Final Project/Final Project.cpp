@@ -3,9 +3,10 @@
 #include <vector>
 using namespace std;
 // mechatronics
-// hello 
+// hello mct
 // -----------------------------
 // Classes
+// time table
 // -----------------------------
 class TimeSlot {
 private:
